@@ -94,8 +94,17 @@ const builder = new XMLBuilder({ ignoreAttributes: false, attributeNamePrefix: '
 const feed = parser.parse(xml);
 const offers = feed?.yml_catalog?.shop?.offers?.offer ?? [];
 
+// Нормализация валюты: Bitrix-выгрузка отдаёт устаревший RUR.
+// B24U виджет/каталог ждёт RUB (RUR — задокументированный риск нерендера, §17a).
+// Правим и объявление <currencies>, и currencyId каждого оффера.
+const currencies = feed?.yml_catalog?.shop?.currencies?.currency;
+for (const c of [].concat(currencies ?? [])) {
+  if (c && c['@_id'] === 'RUR') c['@_id'] = 'RUB';
+}
+
 let touched = 0;
 for (const offer of offers) {
+  if (offer['currencyId'] === 'RUR') offer['currencyId'] = 'RUB';
   const before = offer['description'];
   const after = enrichDescription(offer);
   if (after !== before) { offer['description'] = after; touched++; }
