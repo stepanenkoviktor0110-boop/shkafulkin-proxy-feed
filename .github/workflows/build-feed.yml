@@ -32,6 +32,8 @@ jobs:
           cache: npm
       - run: npm install
       - name: Build feed
+        env:
+          SOURCE_FEED_URL: ${{ secrets.SOURCE_FEED_URL }}   # build-feed.mjs требует env; без неё build падал каждый прогон
         run: npm run build
       - name: Stage Pages artifact
         run: |
