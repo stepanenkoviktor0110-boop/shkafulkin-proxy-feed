@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-06-24T09:19:52+03:00">
+  <shop>
+    <name>Шкафулькин</name>
+    <company>Шкафулькин</company>
+    <url>https://shkafulkin.ru</url>
+    <platform>BSM/Yandex/Market</platform>
+    <version>2.8.1</version>
+    <currencies>
+      <currency id="RUB" rate="1"></currency>
+    </currencies>
+    <categories>
+      <category id="2000102">Продукция</category>
+      <category id="4" parentId="2000102">Готовая мебель</category>
+    </categories>
+    <enable_auto_discounts>true</enable_auto_discounts>
+    <offers>
+      <offer id="7638" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/gotovyy-shkaf-maura/</url>
+        <price>16218</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/bb7/1tlgt1mtdd911plf20s8pcvpn0osws2e.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/faf/j6d5j2qv3jbu6o8que5wyf9ecvd9p702.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/727/rz4up5pnhw7fgugvltldpnmwx3l2cn3y.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/601/thvpcrrdnzlo57chipj2c6sbgzqem2ag.jpg</picture>
+        <name>Шкаф Маура Ола</name>
+        <description>Фасады: МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="8340" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-artni/</url>
+        <price>16791</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/c4e/yfaxq2x8wxif557m17jjrcvdl46x40qu.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d2d/x5833v2johmvjf982c60cfymmj360a5c.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1bb/yhfpk4swmylxqinqmi8pt1wso7gka2la.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/806/y0zpmw6abx2y806b71hf2qm5zb4h1l7h.jpg</picture>
+        <name>Шкаф Артни</name>
+        <description>Фасады:&amp;nbsp;МДФ в плёнке + зеркало.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="8393" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-artni-dva/</url>
+        <price>13072</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/08c/56cnxlb1bwjy0jntowcleuh726rf5gs4.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ab4/w68eap0939urvq5r5jea7sm4925nbdms.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/17f/va7ldsl4dlj0uv4evna15npqtq9052z0.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/bf6/tj89p2kt7j9lwos0cf0vvjnsidzjz6v4.jpg</picture>
+        <name>Шкаф Артни 2</name>
+        <description>Фасады:&amp;nbsp;МДФ в плёнке + зеркало.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 15000 руб до пятнадцати тысяч до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="8429" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-fichchenta/</url>
+        <price>14293</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/8c6/yn457udqht18ndroqbmj72lbm8cmw9jg.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/e96/fzzjwjpnk3ae1iblhptadew6sumw5pin.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/74b/efkukozl3538c0rg1sbquxlwdw1xdji0.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/104/j7b3sma24m23kzmegj07wlh3zdvn8oyj.jpg</picture>
+        <name>Шкаф Фиччента</name>
+        <description>Фасады:&amp;nbsp;МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 15000 руб до пятнадцати тысяч до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="8464" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-blondi/</url>
+        <price>11079</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/d8d/cojgjvrbfyq3ui1ocr8a4kgqtb814jp9.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a22/facpgs4llmlibruh5z6t6brxx26pmguc.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/216/2qy03eyqnbm61a2lvi8a1rempsbyf2jo.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/018/ogle0xdnz917ccm04686cmk1vnwvgz3c.jpg</picture>
+        <name>Шкаф Блонди</name>
+        <description>Фасады:&amp;nbsp;МДФ в плёнке.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 15000 руб до пятнадцати тысяч до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="8491" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-silgero/</url>
+        <price>13244</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/515/ca02dqoy2cvn0h70vmwzvtjdjxaqgybz.png</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/53c/38khdfup3jjyf93d70nfeo17i2wyvp7j.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/3d3/ni7zclpcgi312y3nxzg7ub21v3mb2qpq.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/5f9/gjt4x44svr9gjzoepohh1wi3flllf58e.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/fab/8e8bb6w1wrxgii5qe0gnxcekat6v0s24.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d95/jut7t9mu51vw5905hpkv1bgcz363uotz.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/78c/azb1psikhpyy3e57944itm2lliow0chd.jpg</picture>
+        <name>Шкаф Сильгеро</name>
+        <description>Фасады:&amp;nbsp;МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 15000 руб до пятнадцати тысяч до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="8500" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-metros/</url>
+        <price>13150</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/bb0/v92mg6bzlj1mrgktxcdk31lky5rlmnh0.png</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ffd/17jy8rq18log4lws49h1w7om3gureg6v.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/367/ybt5pqjmerrarcvy82l0oe1v3cw7usja.jpg</picture>
+        <name>Шкаф Метрос</name>
+        <description>Фасады:&amp;nbsp;МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 15000 руб до пятнадцати тысяч до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="7800" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-violetta-ola/</url>
+        <price>30401</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/73f/ju0a39glhyu6djwrfe0qeumh7lcp58n2.png</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/f92/6shqburu6gdo5k1fcecvj7nact0sjk50.jpg</picture>
+        <name>Шкаф Виолетта Ола</name>
+        <description>Фасады:&amp;nbsp;МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7921" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-vichensa/</url>
+        <price>24660</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/47a/g4xk7ccscfozv46lm8tztir2jsjkmuwu.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/7ae/hrxmvl8pk3ycvkk6douzb0eiw0go71qi.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/056/l7zgjllkbl1tvb4ogm9hf0vpp3m0sa05.jpg</picture>
+        <name>Шкаф Виченса</name>
+        <description>Фасады:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7903" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-zinger-ola/</url>
+        <price>30401</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/cd1/dp8t12cjbo2imdplh5vl1gmnviuccqxt.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/59f/qe5j9vwt86vnh0upznzjrmxuxl81d22f.jpg</picture>
+        <name>Шкаф Зингер Ола</name>
+        <description>Фасады:&amp;nbsp;МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7912" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-kalipta/</url>
+        <price>21363</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/210/q12umrvqkud1cg27ow9x9sv71osozfv3.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/67f/vvhg9lcin4dwichqi661kz9v8jptrwss.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/2d5/ew12700ajvpj6hiyrivaxaop7qewmz9b.jpg</picture>
+        <name>Шкаф Калипта</name>
+        <description>Фасады:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="8020" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-leonardo-ola/</url>
+        <price>30401</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/0b2/nma8k8lde63ttpzo16ld96x3sgi8547a.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/23b/ry8ucvla6x9j1lmt5dgtn874c8er0r93.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/5c6/7a2ag2lualw5altmhpyq7vci3jy0dg2a.jpg</picture>
+        <name>Шкаф Леонардо Ола</name>
+        <description>Фасады:&amp;nbsp;МДФ в&amp;nbsp;плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7757" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/gotovyy-lindor/</url>
+        <price>38025</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/d3c/4etx1iv2wftaphuqs5yahps28o98ytak.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/124/pymp4sqxzl48rq9yahijdofj2p5pwj3i.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/bdb/gyyahmww9y8aoojufpwxu5paw17v55bs.jpg</picture>
+        <name>Шкаф Линдор</name>
+        <description>Фасады: МДФ c фрезеровкой&amp;nbsp;в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7637" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/gotovyy-shkaf-moru/</url>
+        <price>71309</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/dc6/hpr14f48xryeu00kqj74w920tre5xyqa.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ed5/uix694km3rb85qseat92khq1d8cua1ts.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/7a8/pouro9k1fms7qzoaunj3vpyy5tdgmdds.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/3fd/uo0t42c4d9cge4vyq5e80099mkrxwaql.jpg</picture>
+        <name>Шкаф Мору</name>
+        <description>Фасады:&amp;nbsp;алюминиевый профиль, стекло Moru.&lt;br&gt;
+ Цоколь:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+      </offer>
+      <offer id="7930" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-pattern-layt/</url>
+        <price>30401</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/413/0ii6cd1w12isdc0yg4p75ttbw2y8yysz.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/50a/wgvyhke5ox3mysuk5m9r2a7f5yxxclml.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/469/goc236a25t18ulk3q8ekdl75px1z0mhy.jpg</picture>
+        <name>Шкаф Паттерн Ола</name>
+        <description>Фасады:&amp;nbsp;МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7963" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-sanima-layt/</url>
+        <price>30401</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/b84/j5fi32dozdrendh09tx7vf2ei8qdkzlc.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/c4b/8l5tbh6lwyndcy4rx74qrkx8heosv4c1.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/4a6/hd7h18y2jq714ua046g4haa4fzfe66by.jpg</picture>
+        <name>Шкаф Санима Ола</name>
+        <description>Фасады: МДФ с фрезеровкой в плёнке.&amp;nbsp;&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: МДФ в плёнке.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="2101" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-nelson/</url>
+        <price>109340</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/c3d/su9vbfe9kje2k5gwuf213zh6psavx6zd.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/dbf/a7resifn5clnj6l1x22a63pej43wqz1u.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/fd0/0ckteoh21qik1j4r8fa5d3m8jmig1fxe.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a8f/5cm3wcw6ukjoltq2asdfv5q7wqyg5s93.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/068/ui08o7y1ekrbgwpv0o8301n5k44yazlw.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/aa3/ar674vrjxa5vr30i1i3jf47rxbqqhnxa.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/120/dh1lrgs7jnbds5abjfh0inuq3kfqblap.jpg</picture>
+        <name>Стенка Нельсон</name>
+        <description>Размер стенки: 3200х2000х400 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание:&amp;nbsp;от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>3200/2000/400</dimensions>
+      </offer>
+      <offer id="2128" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/korpusnyy-shkaf-dzherri/</url>
+        <price>119832</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/758/b7ixc8fbv61r3sd057nr8gy1u6qn9uir.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/fa9/fa9d35bda2f8e169327951aecf434113.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ccf/ccfe1f57f303c08518658537d2524836.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/275/275e7448a39387346f83629560889147.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/9c4/9c428612cd61a1a01cb936a7d06df9f6.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/b7f/b7f87a4af260ec91f6ac4ace0b60baff.jpg</picture>
+        <name>Корпусный шкаф Джерри</name>
+        <description>Размер шкафа:&amp;nbsp;2200х2400х580 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка. Готовая мебель в наличии, можно купить готовый вариант. В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>2200/2400/580</dimensions>
+      </offer>
+      <offer id="2141" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-zorro/</url>
+        <price>128590</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/5ab/clvw8xnx3bcltjzj6os84z69cvod11yn.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a75/a754e3a19c9fe78e56a042af6e2754df.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d7a/d7a63472c516723d894020bbc0e85847.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/dba/dba0d3a7af7f6f46be0c35e1d0677dc3.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/f06/f06273355d9af7da966726e6e198ab88.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/530/530eb11eb2cef566b6dd3d5535059d78.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/6aa/6aa44ba4442d3d2820352495016169d5.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/332/332348575296ac747be267c2dac76ff8.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d6f/d6fe8d0f82b63e7c80189c1bedcd42d3.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/773/7735430ab3b85ee8d3ac0688822fae6f.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/804/80481ce3d69baf704b680082100ab279.jpg</picture>
+        <name>Прихожая Зорро</name>
+        <description>Общие размеры: 2500х2400х600 мм.&lt;br&gt;
+ Размер ниши: 1000х1565х600 мм.&lt;br&gt;
+ Шкаф слева от ниши: 500х2400х600 мм.&lt;br&gt;
+ Шкаф справа от ниши: 1000х2400х600 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка. Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 200000 руб премиум дорогой.</description>
+        <param name="Материал">Серый Шифер</param>
+        <dimensions>2500/2400/600</dimensions>
+      </offer>
+      <offer id="2750" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-ronni/</url>
+        <price>96880</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/6dc/gma8358mz4jc53msoyskt6b1us84qu1l.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d63/d6315edb648803f51f9f1bb4debcc75a.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/08d/08db98d77a2bb675fe08631d09f1b95e.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/daa/daa8cc9d23d994386906c6dfb3ee6ff4.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a30/a30b2489f0655203dd4321458a176fe4.jpg</picture>
+        <name>Шкаф Ронни</name>
+        <description>Размер шкафа (Ш/В/Г): 2000х2500х520 мм.&lt;br&gt;
+Фасады: ЛДСП.&lt;br&gt;
+Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>2000/2500/520</dimensions>
+      </offer>
+      <offer id="2126" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-foster/</url>
+        <price>87745</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/ee8/t3v48nw9iujdmbapzzysx8re18gxrdq5.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/701/7019dfe06f7e175939af9fe51063cd20.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/456/4561af23a734a0c0abf2795db1dbde20.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/4fd/4fd1d042613986471088cf4937a68b68.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a75/a759f6dd56e965a97f3836b81a21f04a.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/26d/26d0b1ad7bf2099639ec8bee984ebd6f.jpg</picture>
+        <name>Шкаф Фостер</name>
+        <description>Размер шкафа на фото&amp;nbsp;(Ш/В/Г):&amp;nbsp;2000х2400х560&amp;nbsp;мм.&lt;br&gt;
+Фасады: ЛДСП.&lt;br&gt;
+Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>2000/2400/560</dimensions>
+      </offer>
+      <offer id="2147" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-s-rabochey-zonoy-dzhambo/</url>
+        <price>111576</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/4a4/x27gwxhmz7cfs22znmacv1ook7amvq8g.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/4ae/4aea76470facc2380790e37d7f7771a0.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/86e/86e830ea51749ef1269e48bc5c94a766.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1ea/1eafc7de1fe3b31e80cf6d8eb3c6071b.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/b91/b914d395a64d2bda5b43880f21240452.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/9f2/9f2aa3093ad3b76bb88d4c0003415a53.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/4af/4afb641a87886e41d87aa1b163968c18.jpg</picture>
+        <name>Шкаф с рабочей зоной Джамбо</name>
+        <description>Размеры: 2600x2400x500 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>2600/2400/500</dimensions>
+      </offer>
+      <offer id="3271" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/tumba-metropolitan/</url>
+        <price>39800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/d4b/td50et84e6qrxbg6fi3ge99kjb3h0k3l.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1c9/6z2wbm4mwguqnsa2ztgcqknugssxr2zh.jpg</picture>
+        <name>Тумба Метрополитан</name>
+        <model>Метрополитан тумба</model>
+        <description>Размер тумбы: 450х450х450 мм.&lt;br&gt;
+ Корпус: МДФ покрашенная по NCS.&lt;br&gt;
+ Фасады: МДФ с фрезеровкой, покрашенная по NCS.&lt;br&gt;
+ Ручки: Макмарт.&lt;br&gt;
+ Опора: МДМ.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. тумба тумбочка В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+        <dimensions>450/450/450</dimensions>
+      </offer>
+      <offer id="4319" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/komod-87-sm-barbi/</url>
+        <price>64300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/b32/gpdrrwmcc9i6mmrnbayphltq2k3ytzg7.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/209/pajicg2jsciei7m2m00wbhnzknoopqdk.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/891/2y07zkl7rc5f37m08wx6cc8gzt25hs5m.jpg</picture>
+        <name>Комод Барби</name>
+        <model>Барби комод</model>
+        <description>Размер комода: 870х830х350 мм.&lt;br&gt;
+ Корпус: МДФ крашенная NCS.&lt;br&gt;
+ Фасады: МДФ с фрезеровкой крашенная NCS.&lt;br&gt;
+ Открывание: ручки-кнопки.&lt;br&gt;
+ Опоры: ножки-декоративные.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>870/830/350</dimensions>
+      </offer>
+      <offer id="2155" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-amore/</url>
+        <price>93294</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/a92/6kiybsltwwt1ilsjibyz48vkdtxfrsvq.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/94e/94e3ef22ae04cfb1a10d8956d7a66597.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/042/0422500c5fbdddae0f9aa93f56b0aff2.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/c7a/c7a70d7f96c2e35c4933c08e3bca3e99.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/96e/96ea9f945393a5d937927fe8af1a31fe.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/e6e/e6e3f7720c7daea520e9dce8f2d08e1e.jpg</picture>
+        <name>Шкаф Аморе</name>
+        <description>Размер шкафа: 2000х2200х530 мм.&lt;br&gt;
+Фасады: ЛДСП.&lt;br&gt;
+Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание:&amp;nbsp;от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>2000/2200/530</dimensions>
+      </offer>
+      <offer id="2164" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-solo/</url>
+        <price>140666</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/2e0/au06liz4ao2v85jjv9v5gzekqs1yz6be.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/350/350b5a13ab536ff9b56508a2f0bdc28c.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/f77/f77a850415557310893b135a24058c61.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/bbc/bbc13c586b31c6accde7a0b8a6304a9c.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/656/656536c84aba413d6d177548da619e69.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/3f3/3f3a21f760a35b4f5f119be974190977.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/f85/f85605410e7ef7cca273961ef09d518b.jpg</picture>
+        <name>Стенка Соло</name>
+        <description>Размер стенки: 3600х2400х450/300 мм.&lt;br&gt;
+ Размер шкафа: 900х2400х450 мм.&lt;br&gt;
+ Размер тумбы: 2700х400х450 мм.&lt;br&gt;
+ Размер подвесного шкафа: 540х900х300 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия. Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 200000 руб премиум дорогой.</description>
+        <dimensions>3600/2400/450</dimensions>
+      </offer>
+      <offer id="2189" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-alma/</url>
+        <price>125320</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/b9c/ijipwgbj5zvqlziadh7lzgew4axendta.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/540/540da96375c4041905c1e60036aecf7a.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ab4/ab463e79466a531d8dabd1347fb265c0.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/e9a/e9a2605c6488701fcbeb066e91b7fd9c.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/b8d/b8d84adcea33d156b888d54db0e23939.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1fb/1fb7e6e4beeb38237b4d533100a736ce.jpg</picture>
+        <name>Прихожая Альма</name>
+        <description>Размер прихожей:&amp;nbsp;2000x2400x470 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли, крючки.&lt;br&gt;
+ Открывание: от нажатия. Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 200000 руб премиум дорогой.</description>
+        <dimensions>2000/2400/470</dimensions>
+      </offer>
+      <offer id="2449" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-salma/</url>
+        <price>124924</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/05c/rempts2reed7poo6kqkgaofdnnrrkmjh.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ad4/ad49b8f39c247c1f447215fd42410626.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a62/a62b3af51ddd03fdc6a598908094018f.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1e4/1e4b216179917d66ded6db40dca92ce7.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/887/887f6e1acf064564eb21fd5dbe6eb5a5.jpg</picture>
+        <name>Прихожая Сальма</name>
+        <description>Размер прихожей:&amp;nbsp;2000x2400x470 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли, крючки.&lt;br&gt;
+ Открывание: от нажатия. Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 200000 руб премиум дорогой.</description>
+        <dimensions>2000/2400/470</dimensions>
+      </offer>
+      <offer id="2132" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-aksel/</url>
+        <price>125626</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/a7e/o9hsr17nb1oeo7ycd8ozdda8ax3zvf30.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/fe3/20e25gl85clvmcbw2b3t4pt7jwqpmbr5.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/aff/ysfj4teld8mod5vmjwxdsl29lxpnd8ft.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ac0/ebdilulqdg8j2u5wh3dsdhawivx0bvmw.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/29e/2k02o8xspkf443x3ey7y9yjq8g18ud1g.jpg</picture>
+        <name>Шкаф Аксель</name>
+        <description>Размер шкафа: 2400х2400х550 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 200000 руб премиум дорогой.</description>
+        <dimensions>2400/2400/550</dimensions>
+      </offer>
+      <offer id="2140" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-dendi/</url>
+        <price>104325</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/d56/5f5r65fod9f37rqoe3r8a7n7szz4un44.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ade/tom8fwdwnscmzvrho57nw39m0d7aukkb.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/790/xy18yp1006j7c9lucspkk7a0jqc8tqon.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/67d/eyryyjpv0b2yiwkpp95ykkcgczjt6m0y.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/480/dl8bu2dz0ta2ixk2b6uqw8rh287hm0cs.jpg</picture>
+        <name>Шкаф Денди</name>
+        <description>Размер шкафа: 2000х2400х550 мм.&lt;br&gt;
+Фасады: ЛДСП.&lt;br&gt;
+Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>2000/2400/550</dimensions>
+      </offer>
+      <offer id="2188" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-toni/</url>
+        <price>44861</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/46e/g5ajkuzp5749dybvohtuol1dzh0qxao4.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1e9/me6momxqteelulbizzezmnof6g0c9ql0.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/75e/adu1nsoay3rg01yakjm7bjqe1zkjkc62.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/73a/g1m6mwmeodiy37kyjwwufc1ge8vkxc2n.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/445/qds6bzo937eyvldklbp3plukpszha68c.jpg</picture>
+        <name>Шкаф Тони</name>
+        <description>Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+        <dimensions>800/2500/500</dimensions>
+      </offer>
+      <offer id="2152" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-larri/</url>
+        <price>132402</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/a2e/yovaptilxiubo8qqux7zbmuw06opqs1k.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/315/j8le1bmclzc81k3gm69q33jpx63i8no8.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/28b/13hw6h0rj29t2b6v16u9ad7zvphy5hn3.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/95c/w6vlfit7q7ajtighdtfxq95ae4d6l9s1.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ace/oj70yxs0waisanh1pd15nzg578g0rzoc.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/7b1/c2bojkkryis353rhwrzw3j65ebxql4s7.jpg</picture>
+        <name>Прихожая Ларри</name>
+        <description>Общие габариты прихожей: 2740x2400x550 мм.&lt;br&gt;
+ Размеры шкафа:&amp;nbsp;920x2400x550 мм.&lt;br&gt;
+ Размеры стеллажа:&amp;nbsp;900x2280x395 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка. Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 200000 руб премиум дорогой.</description>
+        <dimensions>2740/2400/550</dimensions>
+      </offer>
+      <offer id="2922" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-mikeya/</url>
+        <price>95866</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/c63/mlrada3adrj03zpg8c8fdd60mo8jw6du.jpg</picture>
+        <name>Шкаф Тигго</name>
+        <description>Размер шкафа (Ш/В/Г): 2000х2500х520 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка.&lt;br&gt;
+&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>2000/2500/520</dimensions>
+      </offer>
+      <offer id="2182" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-nolti/</url>
+        <price>153855</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/66f/iu3vgnpqbq4afs8trp90wouy0vvvokpn.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/0c4/yspflm1j70cor1y25q3u5ztwpch4pj69.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/dbb/1f2suvrkzgnk1wexux6j1lrj0olc6yse.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ba8/m9d2cg4nwfxld2is5so12seo1cnihmco.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/62b/q8wqyiffh50wqe81x1z1n4ldv8ncicl7.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/b57/dnknzi1tk4r3s62pk22bf1vjkugb6gg1.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/edb/wj1fq1bnuhpcxxdhwhyndam98vqg99ap.jpg</picture>
+        <name>Стенка Нолти</name>
+        <description>Размер шкафа: 4000х2400х450 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: от нажатия. Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 200000 руб премиум дорогой.</description>
+        <dimensions>4000/2400/450</dimensions>
+      </offer>
+      <offer id="2151" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-tolli/</url>
+        <price>93627</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/751/034pk8o2xenl88b1yjqlohh15qvkwdah.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/c5e/2fvltb1aj7z4r7hge0dhl0cjxipqxee3.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/142/91vhc9mn7gopp0atljpcol33awez56lu.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/7f4/1vjbgjrkvp90qpig1ubif8i1v7vppz80.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a0a/5iiwdz2c1e52r1ju84phcddrgae070ev.jpg</picture>
+        <name>Шкаф Толли</name>
+        <description>Размер шкафа: 1800х2400х550 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt;
+ &lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>1800/2400/550</dimensions>
+      </offer>
+      <offer id="2153" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-tommi/</url>
+        <price>106428</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/09d/298rr7g0v0awhdns4aruqcfogqh3pl6b.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/bf6/k8fbppe3uv17vuaf5d4neqhlh03nzj0d.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/3ac/ue1mjtrn3llo5au9vnt1j6iyez5qus1e.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/57b/63cqyyl33tazmlard76ez5x5i7exawh7.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/052/xhxb7729t4m1azy80bmsk2ph9zvjelxu.jpg</picture>
+        <name>Шкаф Томми</name>
+        <description>Размеры шкафа: 1850x2400x510 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>1850/2400/510</dimensions>
+      </offer>
+      <offer id="2187" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-merri/</url>
+        <price>92695</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/dcc/i0ow02xeconrhnm3lnjq2y9vswan260l.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/346/6qrllsfdd7ulp4i63u0w9v1jaf6in543.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/07f/6w2x2buf3pgrq0g7odv9olkffhaoxcfp.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/539/fn337lzkdgjfi64qmb394ff9bc68ysgz.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/681/vv3rztm6divquyflv58bw469z25k5c13.jpg</picture>
+        <name>Прихожая Мэрри</name>
+        <description>Размер прихожей: 1460x2400x470 мм.&lt;br&gt;
+Фасады: ЛДСП.&lt;br&gt;
+Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>1460/2400/470</dimensions>
+      </offer>
+      <offer id="2179" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-terri/</url>
+        <price>88807</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/0a4/7dl3vk4t99beksbil7ej43pwx4e4o68o.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/fc4/x19lw4x1ih9rwmcajluk5123jjk9z65o.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/26e/ouik1zub83iq5o2gjf0l2uz58ez7q54n.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ab4/9u1x9ep1i21m09vbhmlqnouahdg916hm.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d77/w9mig8mod8wgsej60s4eu8jj1ujgv9ql.jpg</picture>
+        <name>Прихожая Терри</name>
+        <description>Размер прихожей: 1460x2400x470 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>1460/2400/470</dimensions>
+      </offer>
+      <offer id="2191" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-olli/</url>
+        <price>117930</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/d57/odkcpk91f0s6vr6ttk2979tqmhvx8fas.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/4fd/mxnih22jwjzewrkagm2rvk4av53cu37s.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/8ce/y1icwyzl33xj4uy829felwn43j2b7u05.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/df9/y6svxgxd6otwk28h2tbts8ukvt7z2mth.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1cf/vjicu2opw3ikpnsc1g9exvg1p059u6oo.jpg</picture>
+        <name>Прихожая Олли</name>
+        <description>Размер прихожей: 2500х2400х580 мм.&lt;br&gt;
+ Размер шкафа: 900х2400х580 мм.&lt;br&gt;
+ Размер подвесной тумбы: 700х450х580 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли, крючки.&lt;br&gt;
+ Открывание: ручка, от нажатия. Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>2500/2400/580</dimensions>
+      </offer>
+      <offer id="2725" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-zirro/</url>
+        <price>87611</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/b8c/0x2mbu5q2jqpdqrkr9efmisp74xlooy8.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/9d0/3axrbfcd6cefyb4ewwl6vwultfptju7z.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/fd2/fowcysss84dt9s35lzzph1lqscdbq0ux.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1fa/pomjpf45t9ti4498xefdaac96sd98b64.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/2de/w2fr1s83uhojf0ubrjkf6onch0371ji6.jpg</picture>
+        <name>Шкаф Зирро</name>
+        <description>Размер шкафа: 1500х2200х600 мм.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Фасады:&amp;nbsp;купе профиль Абсолют Classic Серебро, вставка зеркало.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ &lt;br&gt;
+ Зеркальный шкаф купе - это находка для маленькой комнаты, как кстати и для большой. Он значительно экономит пространство и всегда остается полезным, ведь его двери, это одновременно и зеркало. Такой шкаф будет выглядеть современно и стильно даже спустя несколько десятилетий.&lt;br&gt;
+ Двери шкафа-купе раздвигаются и сдвигаются обратно, как в вагоне поезда, отсюда и название, они не занимают лишние сантиметры квартиры. Внутри достаточно места, чтобы разместить все, что не должно быть постоянно на виду.&amp;nbsp;&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>1500/2200/600</dimensions>
+      </offer>
+      <offer id="2115" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-vudi/</url>
+        <price>118032</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/7a9/xxx3x2pf3f5h5zhz8bwtfxd9fjo5nlnp.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/178/nbre8ri35f5p1hxu6osx9venl8q9uklm.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/797/3knp193digmu0jhzekkqnax7qm4qakfa.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a32/1qccbyb19sz2mgzfu8znhcj12zb2hqbu.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1e5/mr2vxghkwoms48xnhvk3zbsn7rzal0d3.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/5cf/fvztf18k3bxtoh0j199ct1v14qx1aw2r.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/ae8/9gk6trk17g2d9matxin0gx6oqg2j7ito.jpg</picture>
+        <name>Стенка Вуди</name>
+        <description>Размер стенки: 3800х2400х450/320 мм.&lt;br&gt;
+ Размер подвесной тумбы закрытой: 800х350х450 мм.&lt;br&gt;
+ Размер подвесной тумбы с открытой полкой: 700х350х450 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: от нажатия. Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>3800/2400/450</dimensions>
+      </offer>
+      <offer id="2777" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-simple-4-dveri/</url>
+        <price>96648</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/7d9/r752tdbi8yfypiuy7xczds6zbcfmhj41.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/2e7/cfqfn8msw0sc1ekuzv2hnjnk03f73khz.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/bdc/x1zu6g4xw6aoqyd52df9rhztbhtxlc3l.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/e25/u8kdw51qpp1pq780oeqekc7a2u247j9w.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/543/ezkqunjenovl1v16lzjczymlvrx4bw5a.jpg</picture>
+        <name>Прихожая Симпле</name>
+        <model>Симпле</model>
+        <description>Фасады: ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt;
+ &lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>1800/2400/550</dimensions>
+      </offer>
+      <offer id="2779" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-simple-4-dveri-konsol/</url>
+        <price>78627</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/8bc/43d61sh6tppt3d62wt1etra2ctkl0dw4.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/77a/pnqr0yg4dhjx6d8ihu4qz063a3dp1tlo.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/e80/aimhhrwt2tlquxrxerp8lkr7spfz63bz.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/667/qmzyt2q5p5fps5wd39noapkxyvjf9cci.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/0ab/auhw3q4xcyvkwhl3j46ii3hid4rqh7o7.jpg</picture>
+        <name>Прихожая с консолью Симпле</name>
+        <model>Симпле + консоль</model>
+        <description>Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Фасады:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Зеркало: серебро.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>1500/2400/550</dimensions>
+      </offer>
+      <offer id="2851" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-larsen-4-dveri/</url>
+        <price>105913</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/258/wd1pwn010hoj5rb86t8a1mq83b087ruw.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/5a2/f5pfepiivty6bzf2ye2mydqgyv1082a9.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/db1/fyj7jyxro9j5rih1zv9sqo4tpqwfzver.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/540/5xgc4tsqod35hfur20tk0y69gbm2216w.jpg</picture>
+        <name>Шкаф Ларсен</name>
+        <model>Ларсен</model>
+        <description>Размер шкафа:&amp;nbsp;1600х2300х500 мм.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка.&lt;br&gt;
+&lt;div&gt;
+ &lt;br&gt;
+	 Бетон, как часть обстановки, начали использовать совсем недавно – в 20 веке. Мода на него появилась вместе с зарождением стиля лофт в эпоху развития промышленности. Спустя непродолжительный период времени, течение укрепило свои позиции вместе с популярностью минимализма и индастриала.&amp;nbsp;Подобное оформление жилых помещений является смелым решением, направленным на создание неповторимого трендового облика дома.&lt;br&gt;
+&lt;/div&gt;
+ &lt;br&gt;
+ &lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>1600/2300/500</dimensions>
+      </offer>
+      <offer id="7306" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-1-dver-silvana/</url>
+        <price>79256</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/f09/ng51d3mi5q2waw375x5bd1hzwm3nrdpg.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/075/8aoqaa1fwxsh1n29dezkp75u85b5s11v.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/87e/53opf3qjn24i8g0k9nft5feph7w6wlja.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/9b4/eta7fw7x7tpd3gfyayysmayejs7s9ajr.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/113/ksi35it6hioqxtizo9eili0k7pdq2azm.jpg</picture>
+        <name>Шкаф Сильвана</name>
+        <description>Фасады:&amp;nbsp;МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+      </offer>
+      <offer id="7202" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-1-dver-vanessa/</url>
+        <price>79256</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/1e4/76q2yms3pu5p7f1e8hrokscf3819npdw.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/2d9/8f4s1153by0pec3f83jd4mnvjfwxxnpo.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/3e8/8bt07y7k0l0reyh1bzy3qu39cdhc5qam.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/509/1zo1w4l2jzc68pj4xvrxz4yuqzlyqhlj.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d4f/3ak2hues30l74vm8nas9si2optldxll7.jpg</picture>
+        <name>Шкаф Ванесса</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание:&amp;nbsp;от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+      </offer>
+      <offer id="8572" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-verdikt/</url>
+        <price>68517</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/b0f/uh7zvxl8v2kd0k1hfnnjyv8i2hngpdbv.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/064/zg6z8uvt0j2jwf181ki1y5inaqitr21a.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/2d6/f0zeki74s3aoh1x8ezyjggkg6g6q32ks.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/32d/agkc2ij56orhw0tfzgm6psgx237zp122.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d80/c8f3uloski5biz1l430cvlqnv3uujl87.jpg</picture>
+        <name>Стенка Вердикт</name>
+        <description>Размеры шкафа: 450х2500х400 мм.&lt;br&gt;
+ Размеры полки: 300х2500х400 мм.&lt;br&gt;
+ Размеры тумбы: 2800х316х400 мм.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <param name="Материал">Серый Шифер</param>
+        <param name="Материал">Бук Артизан Песочный</param>
+      </offer>
+      <offer id="8576" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-sanmarino-ola/</url>
+        <price>124461</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/d38/xf45pgdrh8d4yq3t2yt8knwgu4p7m5et.jpg</picture>
+        <name>Прихожая Санмарино Ола</name>
+        <description>Фасады: МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 200000 руб премиум дорогой.</description>
+        <param name="Материал">Белый Снег</param>
+        <dimensions>2700/2500/540</dimensions>
+      </offer>
+      <offer id="7181" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-1-dver-agata/</url>
+        <price>22136</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/52c/sy4j661ayvp44s1d3v47itungxrfkvid.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/8f9/p7zz59jmz6il57757oygmkf0stufjtgh.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d0d/1m0zufo6ca72x5a1vw3rbm6yqq9sdki9.jpg</picture>
+        <name>Шкаф Агата</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="8578" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/prikhozhaya-demerdzhi-seraya/</url>
+        <price>60843</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/835/0a3z7lg9wtcw8cmd4tfjj9yff5r8krio.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/cd3/2rxu1fwl123loneibyzgikexestiubdv.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/05e/3rh0t5ra32j7ydhtly9joqjw10yb61zd.jpg</picture>
+        <name>Прихожая Демерджи</name>
+        <description>Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия.&lt;br&gt;
+ &lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. прихожая мебель в прихожую В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <param name="Материал">Серый Шифер</param>
+      </offer>
+      <offer id="8628" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-s-zerkalom-algero/</url>
+        <price>50442</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/40b/2lyyamywyrkie62rg6vjvignu4vadq88.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/f56/afm3g5ct3sxbvabwrvtldob2sxhl074m.jpg</picture>
+        <name>Шкаф с зеркалом Альгеро</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке, вставка зеркало.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+      </offer>
+      <offer id="8629" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-rishele-gotovyi/</url>
+        <price>38299</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/875/arg651xgq4booj4avmbhacxbl6ejcv94.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/67f/auuo050va6mdwdf2zf42jvzax51l5kg5.jpg</picture>
+        <name>Шкаф Ришелье</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="8633" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-kleopatra-ola/</url>
+        <price>140531</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/9b5/r9rndk1o40p17lrkitzqg8nn93k0izgc.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/27a/t82kln9mhyjt6sihye68sde9gmbfy563.jpg</picture>
+        <name>Стенка Клеопатра Ола</name>
+        <description>Размеры шкафа: 500х2570х400 мм.&lt;br&gt;
+ 
+Размеры шкафа-витрины: 800х1970х400 мм.&lt;br&gt;
+ Размеры тумбы подвесной: 800х300х400 мм.&lt;br&gt;
+ Фасады: алюминиевый профиль со стеклом.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: от нажатия. Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 200000 руб премиум дорогой.</description>
+      </offer>
+      <offer id="8635" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-metropolitan-gotovyi/</url>
+        <price>37488</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/c16/p2zaidu27nm3b6xkj1yd8d00433z6hi2.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/b63/ai1yygf486qx84e0i2ei9tad7ia6c64c.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/9f2/9cmbrvw6wp4y1bu8mzpeecy4hzeq8c7d.jpg</picture>
+        <name>Шкаф Метрополитан</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7165" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-1-dver-silver/</url>
+        <price>20553</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/3ba/ti29ajrlurwfhh92y6hlhwwq33ktkruf.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/6d2/92hhwqr1txawekxxrxtx14m58whs3mxm.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/c5f/qz187a5o50dh98fr1ldqn0wf93m8piao.jpg</picture>
+        <name>Шкаф Сильвер</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="8652" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-argo/</url>
+        <price>12929</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/eae/tk5cj1uclzjzboxpndaewhrhw5e2uaos.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/e09/tt6ed3i1hpi1fjm42e44eor4ak4hxts6.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/c7a/3y29bes33gs325gfm0d2xnchhfxgf8uh.jpg</picture>
+        <name>Шкаф Арго</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 15000 руб до пятнадцати тысяч до 20000 руб до двадцати тысяч до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб дешёвый недорогой бюджетный самый доступный эконом.</description>
+      </offer>
+      <offer id="7218" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-1-dver-lakrua/</url>
+        <price>23722</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/b54/0ouyewmdlvojq9o0h28rw14ifoy6deal.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/edc/s9d6f061nykyzromekm2ji4pcype4zxh.jpg</picture>
+        <name>Шкаф Лакруа</name>
+        <description>Фасады: МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание:&amp;nbsp;от нажатия. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7173" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-1-dver-algero/</url>
+        <price>24942</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/2ae/g5upyl0xlex6ae5a6vwcqcsjzd412blc.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/aeb/3fa6lh94vvy857q43lgsoi8n9vd6hkdc.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/1d6/ojmtl5ngnc67msh083eweb742txx83nm.jpg</picture>
+        <name>Шкаф Альгеро</name>
+        <description>Фасады: МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7242" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-amadeo-lyegkiy/</url>
+        <price>20553</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/e89/mcanc7lmqmacu72al37s9rhkxfv9ctsw.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/3ff/v11boy10i8mlrannxq9tcgdrc2s4q13h.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/582/tt84epe4u7t9dzgparijiuqfkxd3katp.jpg</picture>
+        <name>Шкаф Амадео Ола</name>
+        <description>Фасады: МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Наполнение: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка, от нажатия. Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="7210" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/shkaf-1-dver-darvin/</url>
+        <price>20553</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/6db/g0nlm65grte6mhxp9u6otus02ama1od8.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/58e/dhca183ryz256bo46hn4gfn79k3spakb.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/385/rtjc591js8t8kw1gu3qfyxcmfu2os8p9.jpg</picture>
+        <name>Шкаф Дарвин Ола</name>
+        <description>Фасады:&amp;nbsp;МДФ c фрезеровкой в плёнке.&lt;br&gt;
+ Цоколь:&amp;nbsp;МДФ в плёнке.&lt;br&gt;
+ Наполнение:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Корпус:&amp;nbsp;ЛДСП.&lt;br&gt;
+ Открывание:&amp;nbsp;от нажатия, ручка-скоба.&lt;br&gt;
+ &lt;br&gt; Готовая мебель в наличии, можно купить готовый вариант. шкаф готовый шкаф корпусный шкаф В бюджете: до 30000 руб до тридцати тысяч до 50000 руб до пятидесяти тысяч до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб недорогой бюджетный доступный.</description>
+      </offer>
+      <offer id="8665" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-ellada-gotovaya/</url>
+        <price>155018</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/000/aya4zsa4l88f0elryfxco2cbcxzal5ev.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/bef/gvwe3hbtp4u32swtr5joj3ismerseqz1.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/647/0sezcqgrbreyh2z95t6zb56i9ijizp9t.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/20a/v4wwsvisr1r3r672svdxsnmvs3nzb505.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/829/0ycdj5qvnou7x8xrk0zo79a8sqea262q.jpg</picture>
+        <name>Стенка Эллада</name>
+        <description>Размеры шкафа 2 двери:&amp;nbsp;900х2300х600&amp;nbsp;мм.&lt;br&gt;
+ Размеры комода:&amp;nbsp;1800х780х600&amp;nbsp;мм.&lt;br&gt;
+ Фасады: МДФ с фрезеровкой в плёнке.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка,&amp;nbsp;от нажатия. Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 200000 руб премиум дорогой.</description>
+        <dimensions>3600/2300/600</dimensions>
+      </offer>
+      <offer id="8663" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-ekka-gotovaya/</url>
+        <price>100796</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/195/yb1vuu2n1ka0vef67o08oaztlwu01heb.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/eb4/k4m7rr65s2k7bbr8e87vl0yvobr8q0j4.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d02/fctxgronkhf8wq5bk8737um0ckzcsb1u.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/fd7/50kuyzovzx8vz61e9li11ks07zmb0hbn.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/3ce/z41gcn3hcyr7p7kb6i9a3lt4z50yhndu.jpg</picture>
+        <name>Стенка Экка</name>
+        <description>Размеры шкафа 1 дверь: 440х1780х350 мм.&lt;br&gt;
+ Размеры полки: 320х1780х350 мм.&lt;br&gt;
+ Размеры тумбы: 3000х300х350 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: от нажатия. Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 120000 руб до ста двадцати тысяч до 200000 руб премиум дорогой.</description>
+        <dimensions>3184/2300/350</dimensions>
+      </offer>
+      <offer id="8661" available="true">
+        <url>https://shkafulkin.ru/catalog/gotovaya-mebel/stenka-maksvell-gotovaya/</url>
+        <price>69219</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://shkafulkin.ru/upload/iblock/d6a/c6pknucg2e82m3fqnmhsllovb9fbnvqf.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/f69/oftd8197sahe137il2xwd4si5pq4zm8p.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/cfa/7a50faytw2d0y9nwpbxixbyeh83o90ua.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/d61/rps5ffmlcq8q4m19d30g6kk2ir5usn1y.jpg</picture>
+        <picture>https://shkafulkin.ru/upload/iblock/a72/ia53tme4zjd1uzpyhx784rlae5few67o.jpg</picture>
+        <name>Стенка Максвелл</name>
+        <description>Размеры шкафа: 800х2400х370 мм.&lt;br&gt;
+ Размеры тумбы: 2000х300х370 мм.&lt;br&gt;
+ Фасады: ЛДСП.&lt;br&gt;
+ Корпус: ЛДСП.&lt;br&gt;
+ Кромка: ПВХ.&lt;br&gt;
+ Фурнитура: петли.&lt;br&gt;
+ Открывание: ручка,&amp;nbsp;от нажатия. Готовая мебель в наличии, можно купить готовый вариант. стенка горка модульная стенка гостиная мебель для гостиной В бюджете: до 80000 руб до восьмидесяти тысяч до 100000 руб до ста тысяч до 120000 руб до ста двадцати тысяч до 200000 руб средний бюджет.</description>
+        <dimensions>2800/2300/370</dimensions>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
