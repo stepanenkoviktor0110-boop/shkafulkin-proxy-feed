@@ -84,9 +84,34 @@ function enrichDescription(offer) {
 }
 
 // ───── Основной поток ────────────────────────────────────────────────────────
-const res = await fetch(SOURCE_FEED_URL);
-if (!res.ok) throw new Error(`Source feed fetch failed: ${res.status}`);
-const xml = await res.text();
+async function fetchFeed(url, { timeoutMs = 30000, retries = 4 } = {}) {
+  // Таймаут + ретраи: без таймаута fetch к RU-источнику может зависнуть навечно
+  // (геоблок IP GH-раннеров) → прогон клинит concurrency-lock → копятся cron'ы → письма.
+  for (let attempt = 0; ; attempt++) {
+    const ac = new AbortController();
+    const timer = setTimeout(() => ac.abort(), timeoutMs);
+    try {
+      const res = await fetch(url, { signal: ac.signal });
+      if (!res.ok) throw new Error(`Source feed fetch failed: ${res.status}`);
+      return await res.text();
+    } catch (e) {
+      if (attempt >= retries) throw e;
+      await new Promise(r => setTimeout(r, 2000 * (attempt + 1)));
+    } finally {
+      clearTimeout(timer);
+    }
+  }
+}
+
+let xml;
+try {
+  xml = await fetchFeed(SOURCE_FEED_URL);
+} catch (e) {
+  // last-known-good: источник недоступен → оставляем закоммиченный public/feed.xml,
+  // выходим успешно (деплой отдаст прошлую версию, фид не пустеет, письма нет).
+  console.error(`[warn] source unavailable (${e.message}); reusing committed ${OUT_PATH}`);
+  process.exit(0);
+}
 
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', parseAttributeValue: false, parseTagValue: false, trimValues: true, isArray: (name) => name === 'offer' || name === 'category' });
 const builder = new XMLBuilder({ ignoreAttributes: false, attributeNamePrefix: '@_', format: true, suppressBooleanAttributes: false });
